@@ -1,17 +1,16 @@
 Brand,Product,Price
 Diesel,Cotton Sport Shirt,178
-Eton,Slim Fit Dress Shirt,280
-Thom Browne,Cotton Shirt,590
-Eton,Contemporary Fit Dress Shirt,280
 Ermenegildo Zegna,Milano Suit,3295
-Eton,Slim Fit Dress Shirt,290
-Ermenegildo Zegna,Torino Multi-Season Suit,3295
-Z Zegna,Drop 8 Turati Suit,1698
+Eton,Slim Fit Dress Shirt,280
+Eton,Contemporary Fit Dress Shirt,280
 Paul & Shark,Printed Cotton & Wool Blend Shirt,295
 Ermenegildo Zegna,Milano Suit,3495
 Eton,Slim Fit Dress Shirt,290
+Eton,Slim Fit Dress Shirt,290
+Ermenegildo Zegna,Torino Multi-Season Suit,3295
+Z Zegna,Drop 8 Turati Suit,1698
 Moncler,Rodez Down Jacket,1430
-Paul & Shark,Cashmere & Wool Blend Sweater,495
+Thom Browne,Cotton Shirt,590
 Ermenegildo Zegna,Milano Easy Sports Jacket,2995
 Brunello Cucinelli,Long-Sleeve Cashmere Blend Polo,1175
 Brunello Cucinelli,Wool Blend Sweater,1145
@@ -24,7 +23,7 @@ Z Zegna,Drop 8 Suit,1498
 Paul & Shark,Crew Neck Wool Sweater,395
 Giorgio Armani,V-Neck T-Shirt,375
 Brunello Cucinelli,Waterproof Down Coat,3895
-Brunello Cucinelli,Long-Sleeve Cashmere Blend Polo,1175
+Paul & Shark,Cashmere & Wool Blend Sweater,495
 Z Zegna,Drop 8 Turati Suit,1598
 Z Zegna,Drop 8 Turati Suit,1498
 Z Zegna,Drop 8 Turati Suit,1498
@@ -33,6 +32,7 @@ Brunello Cucinelli,Waterproof Down Vest,1775
 Giorgio Armani,Upton Unstructured Sports Jacket,3395
 Brunello Cucinelli,Waterproof Down Vest,3025
 Ermenegildo Zegna,Cotton Blend Zip-Up Sweater,875
+Brunello Cucinelli,Long-Sleeve Cashmere Blend Polo,1175
 Ermenegildo Zegna,Couture Suit,6185
 Ermenegildo Zegna,Milano Suit,3295
 Giorgio Armani,V-Neck T-Shirt,375
@@ -42,22 +42,22 @@ Brunello Cucinelli,Wool & Cashmere Bomber Jacket,5395
 Brunello Cucinelli,Long-Sleeve Virgin Wool Blend Polo,1175
 Loro Piana,Zip-Up Cashmere Sweater,3880
 Loro Piana,Printed Cotton Shirt,680
-Ermenegildo Zegna,Half-Zip Cashmere & Silk Sweater,2150
-Loro Piana,Slim Fit Jeans,780
-Thom Browne,Down-Filled Jacket,3650
-Loro Piana,Slim Fit Jeans,780
-Loro Piana,Storm System Vest,1540
-Loro Piana,Unstructured Sports Jacket,4330
 Loro Piana,Storm System Vest,1540
 Loro Piana,Zip-Up Cashmere & Silk Blend Sweater,2600
 Loro Piana,Cashmere Blend Coat,19310
 Loro Piana,Zip-Up Cashmere & Silk Blend Sweater,2600
+Loro Piana,Slim Fit Jeans,780
+Loro Piana,Storm System Vest,1540
+Loro Piana,Unstructured Sports Jacket,4330
+Loro Piana,Virgin Wool & Silk Blend Vest,2880
+Versace Collection,Drawstring Joggers,395
 Loro Piana,Cashmere Sweater,2140
 Loro Piana,Slim Fit Jeans,780
 Brunello Cucinelli,Skinny Fit Jeans,675
-Loro Piana,Virgin Wool & Silk Blend Vest,2880
-Versace Collection,Drawstring Joggers,395
-Diesel,Krooley JoggJeans,498
 Loro Piana,Slim Fit Pants,780
+Diesel,Krooley JoggJeans,498
 Loro Piana,Unstructured Sports Jacket,4330
+Ermenegildo Zegna,Half-Zip Cashmere & Silk Sweater,2150
+Loro Piana,Slim Fit Jeans,780
+Thom Browne,Down-Filled Jacket,3650
 Versace Collection,Slim Fit Jeans,395
